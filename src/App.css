@@ -12,7 +12,24 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+.addstudents{
+  text-decoration: none;
+}
+.addstd{
+  margin-top: 20rem;
+  box-shadow: 3px 3px 40px ;
+}
+.side_items{
+  text-decoration: none;
+}
+.t-mentor{
+  box-shadow: 1px 1px 4px rgb(198, 217, 235);
+}
 
+.side-li:hover{
+  transform: scale(1.4);
+  transition: .2s ease-in-out;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
